@@ -11,3 +11,9 @@ $insects = 'butterflies';
 $format = 'There are %d %s by the %s, and %f %s';
 
 echo sprintf($format, $number, $animals,$location, $number2, $insects);
+
+echo '<br>';
+
+$text = " Hello Dotun ";
+
+echo trim($text, ' ');
