@@ -17,3 +17,5 @@ echo '<br>';
 $text = " Hello Dotun ";
 
 echo trim($text, ' ');
+
+
